@@ -1,7 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
-	box-item-sizing: border;
+	box-sizing: border-box;
 }
 .clearfix::after {
 	content: "";
